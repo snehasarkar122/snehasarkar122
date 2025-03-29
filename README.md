@@ -3,8 +3,6 @@
 </p>
 
 
-###  Ohaiyoo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=1200&color=12D7F7&lines=Hello!;Sneha💕&width=99&height=20&vCenter=true)](https://git.io/typing-svg)
 
 # 💫 About Me:
